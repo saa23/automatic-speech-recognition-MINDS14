@@ -35,7 +35,10 @@ While the data structure as below:
 - intent_class (int)
 - lang_id (int)
 
-# 4. Methods
+# 4. Project Flow
+
+![Flow Diagram](./images/flow-diagram.png)
+
 1. Explore the data to get some general insights related to the dataset used (practicing EDA).
     1. Distribution of speech length per class
     <br/>   
